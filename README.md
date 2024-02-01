@@ -1,6 +1,6 @@
 # Pr-ctica1DC
 
-Noimbre: Morales Amaya Joaly Guadalupe
+Nombre: Morales Amaya Joaly Guadalupe
 Correro Electronico: joalymorales06@gmail.com
 Usuario: @JoalyM
 
